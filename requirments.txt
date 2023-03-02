@@ -24,3 +24,5 @@ typing_extensions==4.5.0
 uvicorn==0.20.0
 watchfiles==0.18.1
 websockets==10.4
+matplotlib
+gunicorn~=20.1.0
