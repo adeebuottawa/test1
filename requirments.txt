@@ -10,7 +10,7 @@ numpy
 pandas
 pydantic==1.10.5
 python-dateutil==2.8.2
-python-dotenv==1.0.0
+python-dotenv
 pytz==2022.7.1
 PyYAML==6.0
 scikit-learn==1.2.1
