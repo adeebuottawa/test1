@@ -14,7 +14,7 @@ classifier = pickle.load(pickle_in)
 # Allow requests from any origin
 
 
-origins = ["http://localhost", "http://localhost:8080", "https://myapp.herokuapp.com", "http://localhost:5000"]
+origins = ["http://localhost", "http://localhost:8080", "https://myapp.herokuapp.com", "http://localhost:5000","http://www.e-hospital.ca"]
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
